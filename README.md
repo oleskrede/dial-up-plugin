@@ -1,2 +1,3 @@
-# dial-up-plugin
-Play the old school dial-up sound when opening your browser
+# Dial-up plugin
+
+Play that old school dial-up sound when starting your browser.
