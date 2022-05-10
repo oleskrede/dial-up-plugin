@@ -5,11 +5,6 @@
 	"author": "Ole Steinar L. Skrede",
 	"description": "Plays the old schoole dial-up sound when you open your browser",
 	"homepage_url": "https://github.com/oleskrede/dial-up-plugin",
-	"permissions": [
-		"tabs",
-		"notifications",
-		"storage"
-	],
 	"background": {
 		"scripts": [
 			"js/background.js"
